@@ -1,8 +1,8 @@
 {
 	"actorSpecification": 1,
 	"name": "jq-actor",
-	"title": "Scrape single page in JavaScript",
-	"description": "Scrape data from single page with provided URL.",
+	"title": "Transform dataset with JQ JSON manipulation tool",
+	"description": "Allows passing JQ command which manipulates given dataset and returns new one.",
 	"version": "0.0",
 	"meta": {
 		"templateId": "js-start"
