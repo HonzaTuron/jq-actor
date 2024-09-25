@@ -2,7 +2,7 @@
 	"name": "jq-actor",
 	"version": "0.0.1",
 	"type": "module",
-	"description": "This is an example of an Apify actor.",
+	"description": "Apify actor template for running JQ JSON manipulation tool.",
 	"engines": {
 		"node": ">=18.0.0"
 	},
