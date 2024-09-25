@@ -14,6 +14,6 @@
 	"scripts": {
 		"start": "node ./src/main.js"
 	},
-	"author": "It's not you it's me",
+	"author": "Jan Turon",
 	"license": "ISC"
 }
