@@ -12,8 +12,7 @@
 		"cheerio": "^1.0.0-rc.12"
 	},
 	"scripts": {
-		"start": "node ./src/main.js",
-		"test": "echo \"Error: oops, the actor has no tests yet, sad!\" && exit 1"
+		"start": "node ./src/main.js"
 	},
 	"author": "It's not you it's me",
 	"license": "ISC"
